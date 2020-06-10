@@ -6,17 +6,17 @@ import twitterIcon from '../assets/twitter_icon.png';
 const SOCIAL_PROFILES = [
     {
         id: 1,
-        link: 'mailto:dkcodehelper@gmail.com',
+        link: 'nabin.g14@gmail.com',
         image: emailIcon
     },
     {
         id: 2,
-        link: 'https://github.com/15Dkatz',
+        link: 'https://github.com/nabin-g',
         image: githubIcon
     },
     {
         id: 3,
-        link: 'https://www.linkedin.com/in/david-katz-sf',
+        link: 'https://www.linkedin.com/in/ghimirenabin/',
         image: linkedinIcon
     },
     {
